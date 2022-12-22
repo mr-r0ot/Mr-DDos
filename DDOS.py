@@ -6,7 +6,7 @@ except:
     os.system("pip install sys")
     os.system("pip install thread")
     os.system("pip install _thread")
-    os.system("pip install pythread")
+    import time,socket,sys,_thread
 
 #=================================================================================================
 
@@ -47,18 +47,18 @@ print('')
 
 #=================================================================================================
 
-ior = input('  DDOS attack boy ip or url ?  ')
+ior = input('  DDOS attack boy ip or url(i/u) ?  ')
 ioru = ior.lower()
 print('')
 print('')
-if ioru == ('url'):
+if ioru == ('u'):
     site = input(color.sabz+"      Enter target site url => ")
     print('')
     ip = socket.gethostbyname(site)
     print('')
 #=================================================================================================
 
-if ioru == ('ip'):
+if ioru == ('i'):
     print('')
     print('')
     ip = input(str('   Enter target ip => '))
