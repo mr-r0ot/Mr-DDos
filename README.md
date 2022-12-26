@@ -26,14 +26,14 @@ clear || cls && cd Mr-DDos && python DDOS.py || python3 DDOS.py
 #      %$%$             %$%$            $#^%            #$$&               #
 ############################################################################
 
-←[0m------------------------------------------------------------
+------------------------------------------------------------
 
-←[93m    Step 1.  Enter url or ip
-←[93m    Step 2.  Enter power attack
-←[93m    Step 3.  Enter message attack
-←[93m    Step 3.  Start DDoser !!!
+    Step 1.  Enter url or ip
+    Step 2.  Enter power attack
+    Step 3.  Enter message attack
+    Step 3.  Start DDoser !!!
 
-←[0m------------------------------------------------------------
+------------------------------------------------------------
 
 
   DDOS attack boy ip or url(i/u) u
