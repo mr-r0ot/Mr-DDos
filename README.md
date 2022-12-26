@@ -36,7 +36,7 @@ clear || cls && cd Mr-DDos && python DDOS.py || python3 DDOS.py
 ←[0m------------------------------------------------------------
 
 
-  DDOS attack boy ip or url(i/u) ?
+  DDOS attack boy ip or url(i/u) u
 
 
 
